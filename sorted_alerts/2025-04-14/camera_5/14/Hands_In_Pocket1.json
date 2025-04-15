@@ -1,6 +1,1213 @@
 [
   {
     "_id": {
+      "$oid": "67bcadf0f609782a05904378"
+    },
+    "alert_ID": "2025-02-24 20:35:44",
+    "date": "2025-02-24",
+    "time": "20:35:44",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1740418544.2819476"
+  },
+  {
+    "_id": {
+      "$oid": "67bd5b3bf609782a0590445e"
+    },
+    "alert_ID": "2025-02-25 08:55:07",
+    "date": "2025-02-25",
+    "time": "08:55:07",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1740462907.7637005"
+  },
+  {
+    "_id": {
+      "$oid": "67bd5b6bf609782a0590445f"
+    },
+    "alert_ID": "2025-02-25 08:55:55",
+    "date": "2025-02-25",
+    "time": "08:55:55",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1740462955.737212"
+  },
+  {
+    "_id": {
+      "$oid": "67bffcec968565b0ae06aeea"
+    },
+    "alert_ID": "2025-02-27 08:49:32",
+    "date": "2025-02-27",
+    "time": "08:49:32",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1740635372.7307215"
+  },
+  {
+    "_id": {
+      "$oid": "67c04f85968565b0ae06afa3"
+    },
+    "alert_ID": "2025-02-27 14:41:56",
+    "date": "2025-02-27",
+    "time": "14:41:56",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1740656516.8055444"
+  },
+  {
+    "_id": {
+      "$oid": "67c3fcc3968565b0ae06b182"
+    },
+    "alert_ID": "2025-03-02 09:37:55",
+    "date": "2025-03-02",
+    "time": "09:37:55",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1740897475.7074132"
+  },
+  {
+    "_id": {
+      "$oid": "67c453e84880417f86d6f3ed"
+    },
+    "alert_ID": "2025-03-02 15:49:44",
+    "date": "2025-03-02",
+    "time": "15:49:44",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1740919784.7281477"
+  },
+  {
+    "_id": {
+      "$oid": "67c839a64880417f86d6f55f"
+    },
+    "alert_ID": "2025-03-05 14:46:46",
+    "date": "2025-03-05",
+    "time": "14:46:46",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1741175206.4569082"
+  },
+  {
+    "_id": {
+      "$oid": "67cd31de4880417f86d6f6a7"
+    },
+    "alert_ID": "2025-03-09 09:14:54",
+    "date": "2025-03-09",
+    "time": "09:14:54",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1741500894.0326014"
+  },
+  {
+    "_id": {
+      "$oid": "67cd37244880417f86d6f6ba"
+    },
+    "alert_ID": "2025-03-09 09:37:24",
+    "date": "2025-03-09",
+    "time": "09:37:24",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1741502244.2002492"
+  },
+  {
+    "_id": {
+      "$oid": "67cfea104880417f86d6f8bc"
+    },
+    "alert_ID": "2025-03-11 10:45:20",
+    "date": "2025-03-11",
+    "time": "10:45:20",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1741679120.54007"
+  },
+  {
+    "_id": {
+      "$oid": "67d16e9b4880417f86d6f9fc"
+    },
+    "alert_ID": "2025-03-12 14:23:07",
+    "date": "2025-03-12",
+    "time": "14:23:07",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1741778587.0626886"
+  },
+  {
+    "_id": {
+      "$oid": "67d16ec94880417f86d6f9fd"
+    },
+    "alert_ID": "2025-03-12 14:23:53",
+    "date": "2025-03-12",
+    "time": "14:23:53",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1741778633.3066423"
+  },
+  {
+    "_id": {
+      "$oid": "67d16eea4880417f86d6f9fe"
+    },
+    "alert_ID": "2025-03-12 14:24:26",
+    "date": "2025-03-12",
+    "time": "14:24:26",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1741778666.8363438"
+  },
+  {
+    "_id": {
+      "$oid": "67d171314880417f86d6fa02"
+    },
+    "alert_ID": "2025-03-12 14:34:09",
+    "date": "2025-03-12",
+    "time": "14:34:09",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1741779249.1131485"
+  },
+  {
+    "_id": {
+      "$oid": "67d1742a4880417f86d6fa06"
+    },
+    "alert_ID": "2025-03-12 14:46:50",
+    "date": "2025-03-12",
+    "time": "14:46:50",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1741780010.6701317"
+  },
+  {
+    "_id": {
+      "$oid": "67d1778b4880417f86d6fa0e"
+    },
+    "alert_ID": "2025-03-12 15:01:15",
+    "date": "2025-03-12",
+    "time": "15:01:15",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1741780875.641492"
+  },
+  {
+    "_id": {
+      "$oid": "67d17fa84880417f86d6fa30"
+    },
+    "alert_ID": "2025-03-12 15:35:52",
+    "date": "2025-03-12",
+    "time": "15:35:52",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1741782952.7310138"
+  },
+  {
+    "_id": {
+      "$oid": "67d17fbc4880417f86d6fa32"
+    },
+    "alert_ID": "2025-03-12 15:36:12",
+    "date": "2025-03-12",
+    "time": "15:36:12",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1741782972.0658581"
+  },
+  {
+    "_id": {
+      "$oid": "67d182c04880417f86d6fa40"
+    },
+    "alert_ID": "2025-03-12 15:49:04",
+    "date": "2025-03-12",
+    "time": "15:49:04",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1741783744.627967"
+  },
+  {
+    "_id": {
+      "$oid": "67d1835e4880417f86d6fa42"
+    },
+    "alert_ID": "2025-03-12 15:51:42",
+    "date": "2025-03-12",
+    "time": "15:51:42",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1741783902.9673765"
+  },
+  {
+    "_id": {
+      "$oid": "67d184f24880417f86d6fa46"
+    },
+    "alert_ID": "2025-03-12 15:58:26",
+    "date": "2025-03-12",
+    "time": "15:58:26",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1741784306.108349"
+  },
+  {
+    "_id": {
+      "$oid": "67d2c400af8a5983c1f9e406"
+    },
+    "alert_ID": "2025-03-13 14:39:44",
+    "date": "2025-03-13",
+    "time": "14:39:44",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1741865984.0421646"
+  },
+  {
+    "_id": {
+      "$oid": "67d7c1fcaf8a5983c1f9e569"
+    },
+    "alert_ID": "2025-03-17 09:32:28",
+    "date": "2025-03-17",
+    "time": "09:32:28",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1742193148.6593773"
+  },
+  {
+    "_id": {
+      "$oid": "67d7c21caf8a5983c1f9e56a"
+    },
+    "alert_ID": "2025-03-17 09:33:00",
+    "date": "2025-03-17",
+    "time": "09:33:00",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1742193180.8413565"
+  },
+  {
+    "_id": {
+      "$oid": "67d7c252af8a5983c1f9e56b"
+    },
+    "alert_ID": "2025-03-17 09:33:54",
+    "date": "2025-03-17",
+    "time": "09:33:54",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1742193234.767056"
+  },
+  {
+    "_id": {
+      "$oid": "67d7cfbbaf8a5983c1f9e588"
+    },
+    "alert_ID": "2025-03-17 10:31:07",
+    "date": "2025-03-17",
+    "time": "10:31:07",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1742196667.4418883"
+  },
+  {
+    "_id": {
+      "$oid": "67d91a32af8a5983c1f9e668"
+    },
+    "alert_ID": "2025-03-18 10:01:06",
+    "date": "2025-03-18",
+    "time": "10:01:06",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1742281266.8345723"
+  },
+  {
+    "_id": {
+      "$oid": "67d91c48af8a5983c1f9e66a"
+    },
+    "alert_ID": "2025-03-18 10:10:00",
+    "date": "2025-03-18",
+    "time": "10:10:00",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1742281800.2609084"
+  },
+  {
+    "_id": {
+      "$oid": "67d954d2af8a5983c1f9e6ef"
+    },
+    "alert_ID": "2025-03-18 14:11:14",
+    "date": "2025-03-18",
+    "time": "14:11:14",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1742296274.9373083"
+  },
+  {
+    "_id": {
+      "$oid": "67d96523af8a5983c1f9e70d"
+    },
+    "alert_ID": "2025-03-18 15:20:51",
+    "date": "2025-03-18",
+    "time": "15:20:51",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1742300451.444971"
+  },
+  {
+    "_id": {
+      "$oid": "67d966baaf8a5983c1f9e711"
+    },
+    "alert_ID": "2025-03-18 15:27:38",
+    "date": "2025-03-18",
+    "time": "15:27:38",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1742300858.2069902"
+  },
+  {
+    "_id": {
+      "$oid": "67d9afa6af8a5983c1f9e72b"
+    },
+    "alert_ID": "2025-03-18 20:38:46",
+    "date": "2025-03-18",
+    "time": "20:38:46",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1742319526.5749247"
+  },
+  {
+    "_id": {
+      "$oid": "67da6699af8a5983c1f9e7c1"
+    },
+    "alert_ID": "2025-03-19 09:39:21",
+    "date": "2025-03-19",
+    "time": "09:39:21",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1742366361.6344495"
+  },
+  {
+    "_id": {
+      "$oid": "67da6bd5af8a5983c1f9e7c9"
+    },
+    "alert_ID": "2025-03-19 10:01:41",
+    "date": "2025-03-19",
+    "time": "10:01:41",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1742367701.1048691"
+  },
+  {
+    "_id": {
+      "$oid": "67da6c65af8a5983c1f9e7cb"
+    },
+    "alert_ID": "2025-03-19 10:04:05",
+    "date": "2025-03-19",
+    "time": "10:04:05",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1742367845.7379508"
+  },
+  {
+    "_id": {
+      "$oid": "67dbb89f5f738f9b9fa0a5a0"
+    },
+    "alert_ID": "2025-03-20 09:41:35",
+    "date": "2025-03-20",
+    "time": "09:41:35",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1742452895.068788"
+  },
+  {
+    "_id": {
+      "$oid": "67dbc3e35f738f9b9fa0a5c3"
+    },
+    "alert_ID": "2025-03-20 10:29:39",
+    "date": "2025-03-20",
+    "time": "10:29:39",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1742455779.7771769"
+  },
+  {
+    "_id": {
+      "$oid": "67dbc4295f738f9b9fa0a5c7"
+    },
+    "alert_ID": "2025-03-20 10:30:49",
+    "date": "2025-03-20",
+    "time": "10:30:49",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1742455849.9255831"
+  },
+  {
+    "_id": {
+      "$oid": "67dbc62c5f738f9b9fa0a5cf"
+    },
+    "alert_ID": "2025-03-20 10:39:24",
+    "date": "2025-03-20",
+    "time": "10:39:24",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1742456364.135743"
+  },
+  {
+    "_id": {
+      "$oid": "67dbc9405f738f9b9fa0a5dd"
+    },
+    "alert_ID": "2025-03-20 10:52:32",
+    "date": "2025-03-20",
+    "time": "10:52:32",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1742457152.7793376"
+  },
+  {
+    "_id": {
+      "$oid": "67dbcc8e5f738f9b9fa0a5e8"
+    },
+    "alert_ID": "2025-03-20 11:06:38",
+    "date": "2025-03-20",
+    "time": "11:06:38",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1742457998.7678642"
+  },
+  {
+    "_id": {
+      "$oid": "67dff57c5f738f9b9fa0a6eb"
+    },
+    "alert_ID": "2025-03-23 14:50:20",
+    "date": "2025-03-23",
+    "time": "14:50:20",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1742730620.0363493"
+  },
+  {
+    "_id": {
+      "$oid": "67dff8d85f738f9b9fa0a702"
+    },
+    "alert_ID": "2025-03-23 15:04:40",
+    "date": "2025-03-23",
+    "time": "15:04:40",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1742731480.0417018"
+  },
+  {
+    "_id": {
+      "$oid": "67e1496a5f738f9b9fa0a845"
+    },
+    "alert_ID": "2025-03-24 15:00:42",
+    "date": "2025-03-24",
+    "time": "15:00:42",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1742817642.345025"
+  },
+  {
+    "_id": {
+      "$oid": "67e1a46d5f738f9b9fa0a898"
+    },
+    "alert_ID": "2025-03-24 21:29:01",
+    "date": "2025-03-24",
+    "time": "21:29:01",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1742840941.6058822"
+  },
+  {
+    "_id": {
+      "$oid": "67e2e8bb5f738f9b9fa0a9a1"
+    },
+    "alert_ID": "2025-03-25 20:32:43",
+    "date": "2025-03-25",
+    "time": "20:32:43",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1742923963.3265162"
+  },
+  {
+    "_id": {
+      "$oid": "67e2e8c15f738f9b9fa0a9a2"
+    },
+    "alert_ID": "2025-03-25 20:32:49",
+    "date": "2025-03-25",
+    "time": "20:32:49",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1742923969.133602"
+  },
+  {
+    "_id": {
+      "$oid": "67e2f7e45f738f9b9fa0a9ce"
+    },
+    "alert_ID": "2025-03-25 21:37:24",
+    "date": "2025-03-25",
+    "time": "21:37:24",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1742927844.8379867"
+  },
+  {
+    "_id": {
+      "$oid": "67e2f8075f738f9b9fa0a9cf"
+    },
+    "alert_ID": "2025-03-25 21:37:59",
+    "date": "2025-03-25",
+    "time": "21:37:59",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1742927879.7170498"
+  },
+  {
+    "_id": {
+      "$oid": "67e2f8195f738f9b9fa0a9d0"
+    },
+    "alert_ID": "2025-03-25 21:38:17",
+    "date": "2025-03-25",
+    "time": "21:38:17",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1742927897.0554502"
+  },
+  {
+    "_id": {
+      "$oid": "67e3a0f85f738f9b9fa0aa45"
+    },
+    "alert_ID": "2025-03-26 09:38:48",
+    "date": "2025-03-26",
+    "time": "09:38:48",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1742971128.0232813"
+  },
+  {
+    "_id": {
+      "$oid": "67e3a2035f738f9b9fa0aa47"
+    },
+    "alert_ID": "2025-03-26 09:43:15",
+    "date": "2025-03-26",
+    "time": "09:43:15",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1742971395.5678012"
+  },
+  {
+    "_id": {
+      "$oid": "67e3b03c5f738f9b9fa0aa63"
+    },
+    "alert_ID": "2025-03-26 10:43:56",
+    "date": "2025-03-26",
+    "time": "10:43:56",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1742975036.0679379"
+  },
+  {
+    "_id": {
+      "$oid": "67e3b2a05f738f9b9fa0aa6a"
+    },
+    "alert_ID": "2025-03-26 10:54:08",
+    "date": "2025-03-26",
+    "time": "10:54:08",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1742975648.1053226"
+  },
+  {
+    "_id": {
+      "$oid": "67e3b2b25f738f9b9fa0aa6b"
+    },
+    "alert_ID": "2025-03-26 10:54:26",
+    "date": "2025-03-26",
+    "time": "10:54:26",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1742975666.3303604"
+  },
+  {
+    "_id": {
+      "$oid": "67e3b31a5f738f9b9fa0aa6c"
+    },
+    "alert_ID": "2025-03-26 10:56:10",
+    "date": "2025-03-26",
+    "time": "10:56:10",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1742975770.311621"
+  },
+  {
+    "_id": {
+      "$oid": "67e537195f738f9b9fa0abd6"
+    },
+    "alert_ID": "2025-03-27 14:31:37",
+    "date": "2025-03-27",
+    "time": "14:31:37",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1743075097.1353815"
+  },
+  {
+    "_id": {
+      "$oid": "67e537615f738f9b9fa0abd8"
+    },
+    "alert_ID": "2025-03-27 14:32:49",
+    "date": "2025-03-27",
+    "time": "14:32:49",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1743075169.228551"
+  },
+  {
+    "_id": {
+      "$oid": "67f370615f738f9b9fa0ace3"
+    },
+    "alert_ID": "2025-04-07 09:27:45",
+    "date": "2025-04-07",
+    "time": "09:27:45",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1744007265.6713727"
+  },
+  {
+    "_id": {
+      "$oid": "67f383105f738f9b9fa0ad14"
+    },
+    "alert_ID": "2025-04-07 10:47:28",
+    "date": "2025-04-07",
+    "time": "10:47:28",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1744012048.1717098"
+  },
+  {
+    "_id": {
+      "$oid": "67f3841b5f738f9b9fa0ad1e"
+    },
+    "alert_ID": "2025-04-07 10:51:55",
+    "date": "2025-04-07",
+    "time": "10:51:55",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1744012315.1828613"
+  },
+  {
+    "_id": {
+      "$oid": "67f4d9285f738f9b9fa0adf2"
+    },
+    "alert_ID": "2025-04-08 11:07:04",
+    "date": "2025-04-08",
+    "time": "11:07:04",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1744099624.5039234"
+  },
+  {
+    "_id": {
+      "$oid": "67f4e9205f738f9b9fa0ae0a"
+    },
+    "alert_ID": "2025-04-08 12:15:12",
+    "date": "2025-04-08",
+    "time": "12:15:12",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1744103712.7534318"
+  },
+  {
+    "_id": {
+      "$oid": "67f4fa0e5f738f9b9fa0aec8"
+    },
+    "alert_ID": "2025-04-08 13:27:26",
+    "date": "2025-04-08",
+    "time": "13:27:26",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1744108046.5486615"
+  },
+  {
+    "_id": {
+      "$oid": "67f50c515f738f9b9fa0af87"
+    },
+    "alert_ID": "2025-04-08 14:45:21",
+    "date": "2025-04-08",
+    "time": "14:45:21",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1744112721.7031758"
+  },
+  {
+    "_id": {
+      "$oid": "67f605dd5f738f9b9fa0afd9"
+    },
+    "alert_ID": "2025-04-09 08:30:05",
+    "date": "2025-04-09",
+    "time": "08:30:05",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1744176605.1531694"
+  },
+  {
+    "_id": {
+      "$oid": "67f60c895f738f9b9fa0afef"
+    },
+    "alert_ID": "2025-04-09 08:58:33",
+    "date": "2025-04-09",
+    "time": "08:58:33",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1744178313.2087364"
+  },
+  {
+    "_id": {
+      "$oid": "67f6453b5f738f9b9fa0b05f"
+    },
+    "alert_ID": "2025-04-09 13:00:27",
+    "date": "2025-04-09",
+    "time": "13:00:27",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1744192827.2511547"
+  },
+  {
+    "_id": {
+      "$oid": "67fb5275ca9afeca599dd576"
+    },
+    "alert_ID": "2025-04-13 08:58:13",
+    "date": "2025-04-13",
+    "time": "08:58:13",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1744523893.1684484"
+  },
+  {
+    "_id": {
+      "$oid": "67fb61dfca9afeca599dd61c"
+    },
+    "alert_ID": "2025-04-13 10:03:59",
+    "date": "2025-04-13",
+    "time": "10:03:59",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 14,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1744527839.243209"
+  },
+  {
+    "_id": {
       "$oid": "67fc989fca9afeca599dd708"
     },
     "alert_ID": "2025-04-14 08:09:51",
