@@ -1,0 +1,53 @@
+[
+  {
+    "_id": {
+      "$oid": "67dfa7125f738f9b9fa0a637"
+    },
+    "alert_ID": "2025-03-23 09:15:46",
+    "date": "2025-03-23",
+    "time": "09:15:46",
+    "cam_id": "camera_8",
+    "alerts": [
+      {
+        "candidate": "3",
+        "desk": 27,
+        "title": "Student Interacting with Invigilator"
+      }
+    ],
+    "file_name": "1742710546.604219"
+  },
+  {
+    "_id": {
+      "$oid": "67dfa7a95f738f9b9fa0a63e"
+    },
+    "alert_ID": "2025-03-23 09:18:17",
+    "date": "2025-03-23",
+    "time": "09:18:17",
+    "cam_id": "camera_8",
+    "alerts": [
+      {
+        "candidate": "3",
+        "desk": 27,
+        "title": "Student Interacting with Invigilator"
+      }
+    ],
+    "file_name": "1742710697.8140986"
+  },
+  {
+    "_id": {
+      "$oid": "67dfa7b25f738f9b9fa0a63f"
+    },
+    "alert_ID": "2025-03-23 09:18:26",
+    "date": "2025-03-23",
+    "time": "09:18:26",
+    "cam_id": "camera_8",
+    "alerts": [
+      {
+        "candidate": "3",
+        "desk": 27,
+        "title": "Student Interacting with Invigilator"
+      }
+    ],
+    "file_name": "1742710706.3934884"
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "_id": {
+      "$oid": "67e283fd5f738f9b9fa0a91b"
+    },
+    "alert_ID": "2025-03-25 13:22:53",
+    "date": "2025-03-25",
+    "time": "13:22:53",
+    "cam_id": "camera_2",
+    "alerts": [
+      {
+        "candidate": "1",
+        "desk": 6,
+        "title": "Student Interacting with Invigilator"
+      }
+    ],
+    "file_name": "1742898173.3322926"
+  },
+  {
+    "_id": {
+      "$oid": "67e284085f738f9b9fa0a91c"
+    },
+    "alert_ID": "2025-03-25 13:23:03",
+    "date": "2025-03-25",
+    "time": "13:23:03",
+    "cam_id": "camera_2",
+    "alerts": [
+      {
+        "candidate": "1",
+        "desk": 6,
+        "title": "Student Interacting with Invigilator"
+      }
+    ],
+    "file_name": "1742898183.8642323"
+  },
+  {
+    "_id": {
+      "$oid": "67e28b815f738f9b9fa0a935"
+    },
+    "alert_ID": "2025-03-25 13:54:57",
+    "date": "2025-03-25",
+    "time": "13:54:57",
+    "cam_id": "camera_2",
+    "alerts": [
+      {
+        "candidate": "1",
+        "desk": 6,
+        "title": "Student Interacting with Invigilator"
+      }
+    ],
+    "file_name": "1742900097.1656082"
+  },
+  {
+    "_id": {
+      "$oid": "67e292f45f738f9b9fa0a954"
+    },
+    "alert_ID": "2025-03-25 14:26:44",
+    "date": "2025-03-25",
+    "time": "14:26:44",
+    "cam_id": "camera_2",
+    "alerts": [
+      {
+        "candidate": "1",
+        "desk": 6,
+        "title": "Student Interacting with Invigilator"
+      }
+    ],
+    "file_name": "1742902004.7207634"
+  },
+  {
+    "_id": {
+      "$oid": "67e2e9aa5f738f9b9fa0a9a6"
+    },
+    "alert_ID": "2025-03-25 20:36:42",
+    "date": "2025-03-25",
+    "time": "20:36:42",
+    "cam_id": "camera_2",
+    "alerts": [
+      {
+        "candidate": "1",
+        "desk": 6,
+        "title": "Student Interacting with Invigilator"
+      }
+    ],
+    "file_name": "1742924202.029747"
+  },
+  {
+    "_id": {
+      "$oid": "67e2eebf5f738f9b9fa0a9b4"
+    },
+    "alert_ID": "2025-03-25 20:58:23",
+    "date": "2025-03-25",
+    "time": "20:58:23",
+    "cam_id": "camera_2",
+    "alerts": [
+      {
+        "candidate": "1",
+        "desk": 6,
+        "title": "Student Interacting with Invigilator"
+      }
+    ],
+    "file_name": "1742925503.0872579"
+  }
+]

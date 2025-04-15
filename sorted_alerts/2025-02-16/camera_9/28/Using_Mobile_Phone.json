@@ -1,0 +1,87 @@
+[
+  {
+    "_id": {
+      "$oid": "67b17bd2b365de89cafba221"
+    },
+    "alert_ID": "2025-02-16 08:46:58",
+    "date": "2025-02-16",
+    "time": "08:46:58",
+    "cam_id": "camera_9",
+    "alerts": [
+      {
+        "candidate": "1",
+        "desk": 28,
+        "title": "Using Mobile Phone"
+      }
+    ],
+    "file_name": "1739684818.5388682"
+  },
+  {
+    "_id": {
+      "$oid": "67b17bfeb365de89cafba222"
+    },
+    "alert_ID": "2025-02-16 08:47:42",
+    "date": "2025-02-16",
+    "time": "08:47:42",
+    "cam_id": "camera_9",
+    "alerts": [
+      {
+        "candidate": "1",
+        "desk": 28,
+        "title": "Using Mobile Phone"
+      }
+    ],
+    "file_name": "1739684862.1273339"
+  },
+  {
+    "_id": {
+      "$oid": "67b17c28b365de89cafba223"
+    },
+    "alert_ID": "2025-02-16 08:48:24",
+    "date": "2025-02-16",
+    "time": "08:48:24",
+    "cam_id": "camera_9",
+    "alerts": [
+      {
+        "candidate": "1",
+        "desk": 28,
+        "title": "Using Mobile Phone"
+      }
+    ],
+    "file_name": "1739684904.3127296"
+  },
+  {
+    "_id": {
+      "$oid": "67b17c58b365de89cafba224"
+    },
+    "alert_ID": "2025-02-16 08:49:12",
+    "date": "2025-02-16",
+    "time": "08:49:12",
+    "cam_id": "camera_9",
+    "alerts": [
+      {
+        "candidate": "1",
+        "desk": 28,
+        "title": "Using Mobile Phone"
+      }
+    ],
+    "file_name": "1739684952.2323685"
+  },
+  {
+    "_id": {
+      "$oid": "67b17cf7b365de89cafba225"
+    },
+    "alert_ID": "2025-02-16 08:51:51",
+    "date": "2025-02-16",
+    "time": "08:51:51",
+    "cam_id": "camera_9",
+    "alerts": [
+      {
+        "candidate": "1",
+        "desk": 28,
+        "title": "Using Mobile Phone"
+      }
+    ],
+    "file_name": "1739685111.876075"
+  }
+]

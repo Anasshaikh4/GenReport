@@ -1,0 +1,36 @@
+[
+  {
+    "_id": {
+      "$oid": "67adae7592465e32dfc189ab"
+    },
+    "alert_ID": "2025-02-13 11:33:57",
+    "date": "2025-02-13",
+    "time": "11:33:57",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "3",
+        "desk": 15,
+        "title": "Using Mobile Phone"
+      }
+    ],
+    "file_name": "1739435637.2292304"
+  },
+  {
+    "_id": {
+      "$oid": "67adae8292465e32dfc189ac"
+    },
+    "alert_ID": "2025-02-13 11:34:10",
+    "date": "2025-02-13",
+    "time": "11:34:10",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "3",
+        "desk": 15,
+        "title": "Using Mobile Phone"
+      }
+    ],
+    "file_name": "1739435650.7896366"
+  }
+]

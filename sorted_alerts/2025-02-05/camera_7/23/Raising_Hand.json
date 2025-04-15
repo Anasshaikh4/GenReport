@@ -1,0 +1,19 @@
+[
+  {
+    "_id": {
+      "$oid": "67a331a0aec15695835dcf34"
+    },
+    "alert_ID": "2025-02-05 12:38:40",
+    "date": "2025-02-05",
+    "time": "12:38:40",
+    "cam_id": "camera_7",
+    "alerts": [
+      {
+        "candidate": "3",
+        "desk": 23,
+        "title": "Raising Hand"
+      }
+    ],
+    "file_name": "1738748320.588534"
+  }
+]

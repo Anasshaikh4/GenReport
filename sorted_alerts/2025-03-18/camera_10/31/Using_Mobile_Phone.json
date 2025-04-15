@@ -1,0 +1,53 @@
+[
+  {
+    "_id": {
+      "$oid": "67d92431af8a5983c1f9e69a"
+    },
+    "alert_ID": "2025-03-18 10:43:45",
+    "date": "2025-03-18",
+    "time": "10:43:45",
+    "cam_id": "camera_10",
+    "alerts": [
+      {
+        "candidate": "1",
+        "desk": 31,
+        "title": "Using Mobile Phone"
+      }
+    ],
+    "file_name": "1742283825.4194481"
+  },
+  {
+    "_id": {
+      "$oid": "67d9244faf8a5983c1f9e69b"
+    },
+    "alert_ID": "2025-03-18 10:44:15",
+    "date": "2025-03-18",
+    "time": "10:44:15",
+    "cam_id": "camera_10",
+    "alerts": [
+      {
+        "candidate": "1",
+        "desk": 31,
+        "title": "Using Mobile Phone"
+      }
+    ],
+    "file_name": "1742283855.2315128"
+  },
+  {
+    "_id": {
+      "$oid": "67d924abaf8a5983c1f9e69d"
+    },
+    "alert_ID": "2025-03-18 10:45:47",
+    "date": "2025-03-18",
+    "time": "10:45:47",
+    "cam_id": "camera_10",
+    "alerts": [
+      {
+        "candidate": "1",
+        "desk": 31,
+        "title": "Using Mobile Phone"
+      }
+    ],
+    "file_name": "1742283947.817074"
+  }
+]

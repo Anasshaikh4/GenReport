@@ -1,0 +1,19 @@
+[
+  {
+    "_id": {
+      "$oid": "67fb6081ca9afeca599dd5ff"
+    },
+    "alert_ID": "2025-04-13 09:58:08",
+    "date": "2025-04-13",
+    "time": "09:58:08",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "1",
+        "desk": 13,
+        "title": "Hands In Pocket"
+      }
+    ],
+    "file_name": "1744527488.9283328"
+  }
+]

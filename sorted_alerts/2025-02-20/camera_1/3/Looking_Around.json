@@ -1,0 +1,104 @@
+[
+  {
+    "_id": {
+      "$oid": "67b6bee278d17b78357566b7"
+    },
+    "alert_ID": "2025-02-20 08:34:26",
+    "date": "2025-02-20",
+    "time": "08:34:26",
+    "cam_id": "camera_1",
+    "alerts": [
+      {
+        "candidate": "1",
+        "desk": 3,
+        "title": "Looking Around"
+      }
+    ],
+    "file_name": "1740029666.5901961"
+  },
+  {
+    "_id": {
+      "$oid": "67b6ec147e5ecc6756342cb8"
+    },
+    "alert_ID": "2025-02-20 11:47:16",
+    "date": "2025-02-20",
+    "time": "11:47:16",
+    "cam_id": "camera_1",
+    "alerts": [
+      {
+        "candidate": "1",
+        "desk": 3,
+        "title": "Looking Around"
+      }
+    ],
+    "file_name": "1740041236.6287868"
+  },
+  {
+    "_id": {
+      "$oid": "67b7348b7e5ecc6756342e4c"
+    },
+    "alert_ID": "2025-02-20 16:56:26",
+    "date": "2025-02-20",
+    "time": "16:56:26",
+    "cam_id": "camera_1",
+    "alerts": [
+      {
+        "candidate": "1",
+        "desk": 3,
+        "title": "Looking Around"
+      }
+    ],
+    "file_name": "1740059787.1510353"
+  },
+  {
+    "_id": {
+      "$oid": "67b734aa7e5ecc6756342e4d"
+    },
+    "alert_ID": "2025-02-20 16:56:58",
+    "date": "2025-02-20",
+    "time": "16:56:58",
+    "cam_id": "camera_1",
+    "alerts": [
+      {
+        "candidate": "1",
+        "desk": 3,
+        "title": "Looking Around"
+      }
+    ],
+    "file_name": "1740059818.0783997"
+  },
+  {
+    "_id": {
+      "$oid": "67b756857e5ecc6756342e99"
+    },
+    "alert_ID": "2025-02-20 19:21:25",
+    "date": "2025-02-20",
+    "time": "19:21:25",
+    "cam_id": "camera_1",
+    "alerts": [
+      {
+        "candidate": "1",
+        "desk": 3,
+        "title": "Looking Around"
+      }
+    ],
+    "file_name": "1740068485.5336137"
+  },
+  {
+    "_id": {
+      "$oid": "67b756e27e5ecc6756342e9a"
+    },
+    "alert_ID": "2025-02-20 19:22:58",
+    "date": "2025-02-20",
+    "time": "19:22:58",
+    "cam_id": "camera_1",
+    "alerts": [
+      {
+        "candidate": "1",
+        "desk": 3,
+        "title": "Looking Around"
+      }
+    ],
+    "file_name": "1740068578.4592657"
+  }
+]

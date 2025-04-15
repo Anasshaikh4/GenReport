@@ -1,0 +1,19 @@
+[
+  {
+    "_id": {
+      "$oid": "67ab6519b862a9c1080451a7"
+    },
+    "alert_ID": "2025-02-11 17:56:25",
+    "date": "2025-02-11",
+    "time": "17:56:25",
+    "cam_id": "camera_6",
+    "alerts": [
+      {
+        "candidate": "4",
+        "desk": 17,
+        "title": "Using Mobile Phone"
+      }
+    ],
+    "file_name": "1739285785.126264"
+  }
+]

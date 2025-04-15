@@ -1,0 +1,19 @@
+[
+  {
+    "_id": {
+      "$oid": "67f60fc05f738f9b9fa0aff7"
+    },
+    "alert_ID": "2025-04-09 09:12:16",
+    "date": "2025-04-09",
+    "time": "09:12:16",
+    "cam_id": "camera_8",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 26,
+        "title": "Student Interacting with Invigilator"
+      }
+    ],
+    "file_name": "1744179136.672434"
+  }
+]

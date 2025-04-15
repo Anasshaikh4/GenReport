@@ -1,0 +1,104 @@
+[
+  {
+    "_id": {
+      "$oid": "67b1d99fb365de89cafba2b4"
+    },
+    "alert_ID": "2025-02-16 15:27:11",
+    "date": "2025-02-16",
+    "time": "15:27:11",
+    "cam_id": "camera_4",
+    "alerts": [
+      {
+        "candidate": "4",
+        "desk": 12,
+        "title": "Using Mobile Phone"
+      }
+    ],
+    "file_name": "1739708831.977306"
+  },
+  {
+    "_id": {
+      "$oid": "67b1d9b1b365de89cafba2b5"
+    },
+    "alert_ID": "2025-02-16 15:27:29",
+    "date": "2025-02-16",
+    "time": "15:27:29",
+    "cam_id": "camera_4",
+    "alerts": [
+      {
+        "candidate": "4",
+        "desk": 12,
+        "title": "Using Mobile Phone"
+      }
+    ],
+    "file_name": "1739708849.7711725"
+  },
+  {
+    "_id": {
+      "$oid": "67b1d9b5b365de89cafba2b6"
+    },
+    "alert_ID": "2025-02-16 15:27:33",
+    "date": "2025-02-16",
+    "time": "15:27:33",
+    "cam_id": "camera_4",
+    "alerts": [
+      {
+        "candidate": "4",
+        "desk": 12,
+        "title": "Using Mobile Phone"
+      }
+    ],
+    "file_name": "1739708853.8337455"
+  },
+  {
+    "_id": {
+      "$oid": "67b1d9bcb365de89cafba2b7"
+    },
+    "alert_ID": "2025-02-16 15:27:40",
+    "date": "2025-02-16",
+    "time": "15:27:40",
+    "cam_id": "camera_4",
+    "alerts": [
+      {
+        "candidate": "4",
+        "desk": 12,
+        "title": "Using Mobile Phone"
+      }
+    ],
+    "file_name": "1739708860.419129"
+  },
+  {
+    "_id": {
+      "$oid": "67b1d9e8b365de89cafba2ba"
+    },
+    "alert_ID": "2025-02-16 15:28:24",
+    "date": "2025-02-16",
+    "time": "15:28:24",
+    "cam_id": "camera_4",
+    "alerts": [
+      {
+        "candidate": "4",
+        "desk": 12,
+        "title": "Using Mobile Phone"
+      }
+    ],
+    "file_name": "1739708904.7387495"
+  },
+  {
+    "_id": {
+      "$oid": "67b1d9f2b365de89cafba2bb"
+    },
+    "alert_ID": "2025-02-16 15:28:34",
+    "date": "2025-02-16",
+    "time": "15:28:34",
+    "cam_id": "camera_4",
+    "alerts": [
+      {
+        "candidate": "4",
+        "desk": 12,
+        "title": "Using Mobile Phone"
+      }
+    ],
+    "file_name": "1739708914.8640645"
+  }
+]

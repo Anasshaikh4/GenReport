@@ -1,0 +1,53 @@
+[
+  {
+    "_id": {
+      "$oid": "67d92e0caf8a5983c1f9e6c2"
+    },
+    "alert_ID": "2025-03-18 11:25:48",
+    "date": "2025-03-18",
+    "time": "11:25:48",
+    "cam_id": "camera_8",
+    "alerts": [
+      {
+        "candidate": "3",
+        "desk": 27,
+        "title": "Hands In Pocket"
+      }
+    ],
+    "file_name": "1742286348.059388"
+  },
+  {
+    "_id": {
+      "$oid": "67d9c158af8a5983c1f9e75c"
+    },
+    "alert_ID": "2025-03-18 21:54:16",
+    "date": "2025-03-18",
+    "time": "21:54:16",
+    "cam_id": "camera_8",
+    "alerts": [
+      {
+        "candidate": "3",
+        "desk": 27,
+        "title": "Hands In Pocket"
+      }
+    ],
+    "file_name": "1742324056.354815"
+  },
+  {
+    "_id": {
+      "$oid": "67d9cfe0af8a5983c1f9e77d"
+    },
+    "alert_ID": "2025-03-18 22:56:16",
+    "date": "2025-03-18",
+    "time": "22:56:16",
+    "cam_id": "camera_8",
+    "alerts": [
+      {
+        "candidate": "3",
+        "desk": 27,
+        "title": "Hands In Pocket"
+      }
+    ],
+    "file_name": "1742327776.0115478"
+  }
+]

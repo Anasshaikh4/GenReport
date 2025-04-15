@@ -1,0 +1,36 @@
+[
+  {
+    "_id": {
+      "$oid": "67fcaa44ca9afeca599dd74b"
+    },
+    "alert_ID": "2025-04-14 09:25:08",
+    "date": "2025-04-14",
+    "time": "09:25:08",
+    "cam_id": "camera_4",
+    "alerts": [
+      {
+        "candidate": "1",
+        "desk": 9,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1744611908.200834"
+  },
+  {
+    "_id": {
+      "$oid": "67fcab54ca9afeca599dd74e"
+    },
+    "alert_ID": "2025-04-14 09:29:40",
+    "date": "2025-04-14",
+    "time": "09:29:40",
+    "cam_id": "camera_4",
+    "alerts": [
+      {
+        "candidate": "1",
+        "desk": 9,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1744612180.4909976"
+  }
+]

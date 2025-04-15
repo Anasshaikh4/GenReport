@@ -1,0 +1,87 @@
+[
+  {
+    "_id": {
+      "$oid": "67bd63b8f609782a05904477"
+    },
+    "alert_ID": "2025-02-25 09:31:20",
+    "date": "2025-02-25",
+    "time": "09:31:20",
+    "cam_id": "camera_10",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 32,
+        "title": "Looking Around"
+      }
+    ],
+    "file_name": "1740465080.7791312"
+  },
+  {
+    "_id": {
+      "$oid": "67bd63c3f609782a05904478"
+    },
+    "alert_ID": "2025-02-25 09:31:31",
+    "date": "2025-02-25",
+    "time": "09:31:31",
+    "cam_id": "camera_10",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 32,
+        "title": "Looking Around"
+      }
+    ],
+    "file_name": "1740465091.1433249"
+  },
+  {
+    "_id": {
+      "$oid": "67bd63c7f609782a05904479"
+    },
+    "alert_ID": "2025-02-25 09:31:35",
+    "date": "2025-02-25",
+    "time": "09:31:35",
+    "cam_id": "camera_10",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 32,
+        "title": "Looking Around"
+      }
+    ],
+    "file_name": "1740465095.660464"
+  },
+  {
+    "_id": {
+      "$oid": "67bdad84968565b0ae06abef"
+    },
+    "alert_ID": "2025-02-25 14:46:11",
+    "date": "2025-02-25",
+    "time": "14:46:11",
+    "cam_id": "camera_10",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 32,
+        "title": "Looking Around"
+      }
+    ],
+    "file_name": "1740483971.8932402"
+  },
+  {
+    "_id": {
+      "$oid": "67bddc53968565b0ae06ac43"
+    },
+    "alert_ID": "2025-02-25 18:05:55",
+    "date": "2025-02-25",
+    "time": "18:05:55",
+    "cam_id": "camera_10",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 32,
+        "title": "Looking Around"
+      }
+    ],
+    "file_name": "1740495955.4113474"
+  }
+]

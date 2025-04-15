@@ -1,0 +1,104 @@
+[
+  {
+    "_id": {
+      "$oid": "67c548274880417f86d6f40e"
+    },
+    "alert_ID": "2025-03-03 09:11:51",
+    "date": "2025-03-03",
+    "time": "09:11:51",
+    "cam_id": "camera_4",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 10,
+        "title": "Hands In Pocket"
+      }
+    ],
+    "file_name": "1740982311.159264"
+  },
+  {
+    "_id": {
+      "$oid": "67c550b24880417f86d6f426"
+    },
+    "alert_ID": "2025-03-03 09:48:18",
+    "date": "2025-03-03",
+    "time": "09:48:18",
+    "cam_id": "camera_4",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 10,
+        "title": "Hands In Pocket"
+      }
+    ],
+    "file_name": "1740984498.347288"
+  },
+  {
+    "_id": {
+      "$oid": "67c58fc04880417f86d6f45c"
+    },
+    "alert_ID": "2025-03-03 14:17:19",
+    "date": "2025-03-03",
+    "time": "14:17:19",
+    "cam_id": "camera_4",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 10,
+        "title": "Hands In Pocket"
+      }
+    ],
+    "file_name": "1741000639.864513"
+  },
+  {
+    "_id": {
+      "$oid": "67c5912f4880417f86d6f45d"
+    },
+    "alert_ID": "2025-03-03 14:23:26",
+    "date": "2025-03-03",
+    "time": "14:23:26",
+    "cam_id": "camera_4",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 10,
+        "title": "Hands In Pocket"
+      }
+    ],
+    "file_name": "1741001006.9233496"
+  },
+  {
+    "_id": {
+      "$oid": "67c5945c4880417f86d6f461"
+    },
+    "alert_ID": "2025-03-03 14:37:00",
+    "date": "2025-03-03",
+    "time": "14:37:00",
+    "cam_id": "camera_4",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 10,
+        "title": "Hands In Pocket"
+      }
+    ],
+    "file_name": "1741001820.572954"
+  },
+  {
+    "_id": {
+      "$oid": "67c594db4880417f86d6f462"
+    },
+    "alert_ID": "2025-03-03 14:39:07",
+    "date": "2025-03-03",
+    "time": "14:39:07",
+    "cam_id": "camera_4",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 10,
+        "title": "Hands In Pocket"
+      }
+    ],
+    "file_name": "1741001947.617387"
+  }
+]

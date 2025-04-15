@@ -1,0 +1,155 @@
+[
+  {
+    "_id": {
+      "$oid": "67b45e1f6283bba9c2a053ea"
+    },
+    "alert_ID": "2025-02-18 13:17:03",
+    "date": "2025-02-18",
+    "time": "13:17:03",
+    "cam_id": "camera_3",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 7,
+        "title": "Using Mobile Phone"
+      }
+    ],
+    "file_name": "1739873823.1890907"
+  },
+  {
+    "_id": {
+      "$oid": "67b45e256283bba9c2a053eb"
+    },
+    "alert_ID": "2025-02-18 13:17:09",
+    "date": "2025-02-18",
+    "time": "13:17:09",
+    "cam_id": "camera_3",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 7,
+        "title": "Using Mobile Phone"
+      }
+    ],
+    "file_name": "1739873829.64331"
+  },
+  {
+    "_id": {
+      "$oid": "67b462136283bba9c2a053ee"
+    },
+    "alert_ID": "2025-02-18 13:33:55",
+    "date": "2025-02-18",
+    "time": "13:33:55",
+    "cam_id": "camera_3",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 7,
+        "title": "Using Mobile Phone"
+      }
+    ],
+    "file_name": "1739874835.0552788"
+  },
+  {
+    "_id": {
+      "$oid": "67b462186283bba9c2a053ef"
+    },
+    "alert_ID": "2025-02-18 13:34:00",
+    "date": "2025-02-18",
+    "time": "13:34:00",
+    "cam_id": "camera_3",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 7,
+        "title": "Using Mobile Phone"
+      }
+    ],
+    "file_name": "1739874840.2333627"
+  },
+  {
+    "_id": {
+      "$oid": "67b49cc26283bba9c2a0546f"
+    },
+    "alert_ID": "2025-02-18 17:44:18",
+    "date": "2025-02-18",
+    "time": "17:44:18",
+    "cam_id": "camera_3",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 7,
+        "title": "Using Mobile Phone"
+      }
+    ],
+    "file_name": "1739889858.9273162"
+  },
+  {
+    "_id": {
+      "$oid": "67b49e856283bba9c2a05472"
+    },
+    "alert_ID": "2025-02-18 17:51:49",
+    "date": "2025-02-18",
+    "time": "17:51:49",
+    "cam_id": "camera_3",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 7,
+        "title": "Using Mobile Phone"
+      }
+    ],
+    "file_name": "1739890309.4972594"
+  },
+  {
+    "_id": {
+      "$oid": "67b49f146283bba9c2a05473"
+    },
+    "alert_ID": "2025-02-18 17:54:12",
+    "date": "2025-02-18",
+    "time": "17:54:12",
+    "cam_id": "camera_3",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 7,
+        "title": "Using Mobile Phone"
+      }
+    ],
+    "file_name": "1739890452.3310995"
+  },
+  {
+    "_id": {
+      "$oid": "67b49f246283bba9c2a05474"
+    },
+    "alert_ID": "2025-02-18 17:54:28",
+    "date": "2025-02-18",
+    "time": "17:54:28",
+    "cam_id": "camera_3",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 7,
+        "title": "Using Mobile Phone"
+      }
+    ],
+    "file_name": "1739890468.5324247"
+  },
+  {
+    "_id": {
+      "$oid": "67b49f2a6283bba9c2a05475"
+    },
+    "alert_ID": "2025-02-18 17:54:34",
+    "date": "2025-02-18",
+    "time": "17:54:34",
+    "cam_id": "camera_3",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 7,
+        "title": "Using Mobile Phone"
+      }
+    ],
+    "file_name": "1739890474.8119738"
+  }
+]

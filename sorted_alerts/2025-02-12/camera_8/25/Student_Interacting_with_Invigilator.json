@@ -1,0 +1,87 @@
+[
+  {
+    "_id": {
+      "$oid": "67ac2667b862a9c1080453e7"
+    },
+    "alert_ID": "2025-02-12 07:41:11",
+    "date": "2025-02-12",
+    "time": "07:41:11",
+    "cam_id": "camera_8",
+    "alerts": [
+      {
+        "candidate": "1",
+        "desk": 25,
+        "title": "Student Interacting with Invigilator"
+      }
+    ],
+    "file_name": "1739335271.4248197"
+  },
+  {
+    "_id": {
+      "$oid": "67ac266cb862a9c1080453e8"
+    },
+    "alert_ID": "2025-02-12 07:41:16",
+    "date": "2025-02-12",
+    "time": "07:41:16",
+    "cam_id": "camera_8",
+    "alerts": [
+      {
+        "candidate": "1",
+        "desk": 25,
+        "title": "Student Interacting with Invigilator"
+      }
+    ],
+    "file_name": "1739335276.7595193"
+  },
+  {
+    "_id": {
+      "$oid": "67ac59c4b862a9c108045742"
+    },
+    "alert_ID": "2025-02-12 11:20:20",
+    "date": "2025-02-12",
+    "time": "11:20:20",
+    "cam_id": "camera_8",
+    "alerts": [
+      {
+        "candidate": "1",
+        "desk": 25,
+        "title": "Student Interacting with Invigilator"
+      }
+    ],
+    "file_name": "1739348420.4341714"
+  },
+  {
+    "_id": {
+      "$oid": "67ac5ab0b862a9c10804574c"
+    },
+    "alert_ID": "2025-02-12 11:24:16",
+    "date": "2025-02-12",
+    "time": "11:24:16",
+    "cam_id": "camera_8",
+    "alerts": [
+      {
+        "candidate": "1",
+        "desk": 25,
+        "title": "Student Interacting with Invigilator"
+      }
+    ],
+    "file_name": "1739348656.382557"
+  },
+  {
+    "_id": {
+      "$oid": "67ac5ab3b862a9c10804574d"
+    },
+    "alert_ID": "2025-02-12 11:24:19",
+    "date": "2025-02-12",
+    "time": "11:24:19",
+    "cam_id": "camera_8",
+    "alerts": [
+      {
+        "candidate": "1",
+        "desk": 25,
+        "title": "Student Interacting with Invigilator"
+      }
+    ],
+    "file_name": "1739348659.2485926"
+  }
+]

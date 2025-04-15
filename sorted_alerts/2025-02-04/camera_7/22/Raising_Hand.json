@@ -1,0 +1,36 @@
+[
+  {
+    "_id": {
+      "$oid": "67a21c0faec15695835dce4c"
+    },
+    "alert_ID": "2025-02-04 16:54:23",
+    "date": "2025-02-04",
+    "time": "16:54:23",
+    "cam_id": "camera_7",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 22,
+        "title": "Raising Hand"
+      }
+    ],
+    "file_name": "1738677263.6402528"
+  },
+  {
+    "_id": {
+      "$oid": "67a21c23aec15695835dce4e"
+    },
+    "alert_ID": "2025-02-04 16:54:43",
+    "date": "2025-02-04",
+    "time": "16:54:43",
+    "cam_id": "camera_7",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 22,
+        "title": "Raising Hand"
+      }
+    ],
+    "file_name": "1738677283.65569"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "_id": {
+      "$oid": "67dbb2825f738f9b9fa0a594"
+    },
+    "alert_ID": "2025-03-20 09:15:30",
+    "date": "2025-03-20",
+    "time": "09:15:30",
+    "cam_id": "camera_7",
+    "alerts": [
+      {
+        "candidate": "4",
+        "desk": 21,
+        "title": "Student Interacting with Invigilator"
+      }
+    ],
+    "file_name": "1742451330.024047"
+  },
+  {
+    "_id": {
+      "$oid": "67dbb29b5f738f9b9fa0a595"
+    },
+    "alert_ID": "2025-03-20 09:15:55",
+    "date": "2025-03-20",
+    "time": "09:15:55",
+    "cam_id": "camera_7",
+    "alerts": [
+      {
+        "candidate": "4",
+        "desk": 21,
+        "title": "Student Interacting with Invigilator"
+      }
+    ],
+    "file_name": "1742451355.247844"
+  }
+]

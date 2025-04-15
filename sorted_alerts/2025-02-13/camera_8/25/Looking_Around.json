@@ -1,0 +1,36 @@
+[
+  {
+    "_id": {
+      "$oid": "67adca0b035f76954ddfee37"
+    },
+    "alert_ID": "2025-02-13 13:31:39",
+    "date": "2025-02-13",
+    "time": "13:31:39",
+    "cam_id": "camera_8",
+    "alerts": [
+      {
+        "candidate": "1",
+        "desk": 25,
+        "title": "Looking Around"
+      }
+    ],
+    "file_name": "1739442699.6495132"
+  },
+  {
+    "_id": {
+      "$oid": "67adcdf8035f76954ddfee3e"
+    },
+    "alert_ID": "2025-02-13 13:48:24",
+    "date": "2025-02-13",
+    "time": "13:48:24",
+    "cam_id": "camera_8",
+    "alerts": [
+      {
+        "candidate": "1",
+        "desk": 25,
+        "title": "Looking Around"
+      }
+    ],
+    "file_name": "1739443704.7973852"
+  }
+]

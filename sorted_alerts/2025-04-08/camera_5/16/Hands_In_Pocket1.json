@@ -1,0 +1,104 @@
+[
+  {
+    "_id": {
+      "$oid": "67f4bea55f738f9b9fa0ad96"
+    },
+    "alert_ID": "2025-04-08 09:13:57",
+    "date": "2025-04-08",
+    "time": "09:13:57",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "4",
+        "desk": 16,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1744092837.77845"
+  },
+  {
+    "_id": {
+      "$oid": "67f4bf4d5f738f9b9fa0ad99"
+    },
+    "alert_ID": "2025-04-08 09:16:45",
+    "date": "2025-04-08",
+    "time": "09:16:45",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "4",
+        "desk": 16,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1744093005.8565497"
+  },
+  {
+    "_id": {
+      "$oid": "67f4c36c5f738f9b9fa0ad9f"
+    },
+    "alert_ID": "2025-04-08 09:34:20",
+    "date": "2025-04-08",
+    "time": "09:34:20",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "4",
+        "desk": 16,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1744094060.2077034"
+  },
+  {
+    "_id": {
+      "$oid": "67f4c4a65f738f9b9fa0adb3"
+    },
+    "alert_ID": "2025-04-08 09:39:34",
+    "date": "2025-04-08",
+    "time": "09:39:34",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "4",
+        "desk": 16,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1744094374.0799553"
+  },
+  {
+    "_id": {
+      "$oid": "67f4c5c85f738f9b9fa0adb6"
+    },
+    "alert_ID": "2025-04-08 09:44:24",
+    "date": "2025-04-08",
+    "time": "09:44:24",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "4",
+        "desk": 16,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1744094664.3634734"
+  },
+  {
+    "_id": {
+      "$oid": "67f500095f738f9b9fa0af1e"
+    },
+    "alert_ID": "2025-04-08 13:52:57",
+    "date": "2025-04-08",
+    "time": "13:52:57",
+    "cam_id": "camera_5",
+    "alerts": [
+      {
+        "candidate": "4",
+        "desk": 16,
+        "title": "Hands In Pocket1"
+      }
+    ],
+    "file_name": "1744109577.7919283"
+  }
+]

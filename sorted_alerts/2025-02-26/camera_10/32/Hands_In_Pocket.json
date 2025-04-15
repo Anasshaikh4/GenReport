@@ -1,0 +1,121 @@
+[
+  {
+    "_id": {
+      "$oid": "67bea99d968565b0ae06acdd"
+    },
+    "alert_ID": "2025-02-26 08:41:49",
+    "date": "2025-02-26",
+    "time": "08:41:49",
+    "cam_id": "camera_10",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 32,
+        "title": "Hands In Pocket"
+      }
+    ],
+    "file_name": "1740548509.6015656"
+  },
+  {
+    "_id": {
+      "$oid": "67bee1fd968565b0ae06ad6a"
+    },
+    "alert_ID": "2025-02-26 12:42:21",
+    "date": "2025-02-26",
+    "time": "12:42:21",
+    "cam_id": "camera_10",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 32,
+        "title": "Hands In Pocket"
+      }
+    ],
+    "file_name": "1740562941.7101383"
+  },
+  {
+    "_id": {
+      "$oid": "67bee3aa968565b0ae06ad77"
+    },
+    "alert_ID": "2025-02-26 12:49:30",
+    "date": "2025-02-26",
+    "time": "12:49:30",
+    "cam_id": "camera_10",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 32,
+        "title": "Hands In Pocket"
+      }
+    ],
+    "file_name": "1740563370.6713853"
+  },
+  {
+    "_id": {
+      "$oid": "67befeb0968565b0ae06addd"
+    },
+    "alert_ID": "2025-02-26 14:44:48",
+    "date": "2025-02-26",
+    "time": "14:44:48",
+    "cam_id": "camera_10",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 32,
+        "title": "Hands In Pocket"
+      }
+    ],
+    "file_name": "1740570288.779934"
+  },
+  {
+    "_id": {
+      "$oid": "67bf03e5968565b0ae06ade8"
+    },
+    "alert_ID": "2025-02-26 15:07:01",
+    "date": "2025-02-26",
+    "time": "15:07:01",
+    "cam_id": "camera_10",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 32,
+        "title": "Hands In Pocket"
+      }
+    ],
+    "file_name": "1740571621.9587712"
+  },
+  {
+    "_id": {
+      "$oid": "67bf1ece968565b0ae06ae5a"
+    },
+    "alert_ID": "2025-02-26 17:01:50",
+    "date": "2025-02-26",
+    "time": "17:01:50",
+    "cam_id": "camera_10",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 32,
+        "title": "Hands In Pocket"
+      }
+    ],
+    "file_name": "1740578510.103225"
+  },
+  {
+    "_id": {
+      "$oid": "67bf5af2968565b0ae06aec3"
+    },
+    "alert_ID": "2025-02-26 21:18:26",
+    "date": "2025-02-26",
+    "time": "21:18:26",
+    "cam_id": "camera_10",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 32,
+        "title": "Hands In Pocket"
+      }
+    ],
+    "file_name": "1740593906.6485496"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "_id": {
+      "$oid": "67bde30e968565b0ae06ac5a"
+    },
+    "alert_ID": "2025-02-25 18:34:38",
+    "date": "2025-02-25",
+    "time": "18:34:38",
+    "cam_id": "camera_8",
+    "alerts": [
+      {
+        "candidate": "2",
+        "desk": 26,
+        "title": "Looking Around"
+      }
+    ],
+    "file_name": "1740497678.256415"
+  }
+]
