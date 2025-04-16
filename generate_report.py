@@ -102,7 +102,9 @@ if __name__ == "__main__":
 
         
         cv2.putText(img, "A: Prev, D: Next, T: TP, F: FP, Esc: Exit", (25,25), cv2.FONT_HERSHEY_SIMPLEX, 1, (255,0,0), 2 , cv2.LINE_AA)
-        cv2.imshow(title, img)
+        # Frame resized.
+        img_resized = cv2.resize(img, (800,500))
+        cv2.imshow(title, img_resized)
 
         # Key controls
         flag = cv2.waitKey(0) & 0xFF  # Wait for key press
@@ -124,8 +126,6 @@ if __name__ == "__main__":
         #     new_entry = pd.DataFrame([{ "cam_id": cam_id, "class_name": class_name, "desk": desk, "timestamp": timestamp, "TP": 0, "FP": 1 ,"Flag": "*"}])
         #     results = pd.concat([results, new_entry], ignore_index=True)
         #     print( f"-Entered {title} as {flag}. ")
-
-        # ...existing code...
 
         if flag in [ord('t'), ord('T')]:  # True Positive
             results.loc[(results['timestamp'] == timestamp) & (results['cam_id'] == cam_id) & (results['desk'] == desk), ['TP', 'FP', 'Flag']] = [1, 0, None]
